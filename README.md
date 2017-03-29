@@ -1,5 +1,8 @@
 # Useful commands
 
+First get a copy of the `Dockerfile` in this repository.  Easiest way
+is to clone this.
+
 ## Build
 
     $ curl -LO https://packagecloud.io/install/repositories/modeanalytics/main/script.deb.sh
