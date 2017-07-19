@@ -5,7 +5,6 @@ is to clone this.
 
 ## Build
 
-    $ curl -LO https://packagecloud.io/install/repositories/modeanalytics/main/script.deb.sh
     $ docker build . -t modeanalytics
 
 ## Config local stuff
